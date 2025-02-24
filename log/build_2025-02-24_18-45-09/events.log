@@ -1,0 +1,8 @@
+[0.000000] (-) TimerEvent: {}
+[0.000258] (-) JobUnselected: {'identifier': 'metric_system'}
+[0.000292] (-) JobUnselected: {'identifier': 'my_msg'}
+[0.000311] (-) JobUnselected: {'identifier': 'work_launch'}
+[0.000330] (british_system) JobQueued: {'identifier': 'british_system', 'dependencies': OrderedDict([('my_msg', '/home/hyx/codes/ros2_work/ros2-learning/install/my_msg')])}
+[0.000350] (british_system) JobStarted: {'identifier': 'british_system'}
+[0.008772] (british_system) JobEnded: {'identifier': 'british_system', 'rc': 1}
+[0.019329] (-) EventReactorShutdown: {}

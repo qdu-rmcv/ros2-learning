@@ -1,0 +1,34 @@
+[0.012s] Invoking command in '/home/hyx/codes/ros2_work/ros2-learning/build/my_msg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/hyx/codes/ros2_work/ros2-learning/build/my_msg -- -j16 -l16
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_generator_c[0m
+[0.059s] [  3%] Built target my_msg__cpp
+[0.060s] [ 12%] Built target my_msg__rosidl_generator_c
+[0.069s] [ 12%] Built target ament_cmake_python_copy_my_msg
+[0.069s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_introspection_c[0m
+[0.069s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_fastrtps_c[0m
+[0.070s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_c[0m
+[0.070s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_introspection_cpp[0m
+[0.070s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_fastrtps_cpp[0m
+[0.071s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_cpp[0m
+[0.080s] [ 32%] Built target my_msg__rosidl_typesupport_introspection_c
+[0.081s] [ 32%] Built target my_msg__rosidl_typesupport_c
+[0.082s] [ 41%] Built target my_msg__rosidl_typesupport_fastrtps_c
+[0.082s] [ 51%] Built target my_msg__rosidl_typesupport_fastrtps_cpp
+[0.083s] [ 61%] Built target my_msg__rosidl_typesupport_cpp
+[0.083s] [ 70%] Built target my_msg__rosidl_typesupport_introspection_cpp
+[0.104s] [ 70%] Built target my_msg
+[0.127s] [ 74%] Built target my_msg__py
+[0.138s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_generator_py[0m
+[0.152s] [ 80%] Built target my_msg__rosidl_generator_py
+[0.162s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.162s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_introspection_c__pyext[0m
+[0.163s] [35m[1mConsolidate compiler generated dependencies of target my_msg__rosidl_typesupport_c__pyext[0m
+[0.175s] [100%] Built target my_msg__rosidl_typesupport_c__pyext
+[0.175s] [100%] Built target my_msg__rosidl_typesupport_introspection_c__pyext
+[0.175s] [100%] Built target my_msg__rosidl_typesupport_fastrtps_c__pyext
+[0.263s] running egg_info
+[0.264s] writing my_msg.egg-info/PKG-INFO
+[0.264s] writing dependency_links to my_msg.egg-info/dependency_links.txt
+[0.264s] writing top-level names to my_msg.egg-info/top_level.txt
+[0.265s] reading manifest file 'my_msg.egg-info/SOURCES.txt'
+[0.266s] writing manifest file 'my_msg.egg-info/SOURCES.txt'
+[0.288s] [100%] Built target ament_cmake_python_build_my_msg_egg

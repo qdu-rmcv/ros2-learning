@@ -1,0 +1,1 @@
+Invoking command in '/home/hyx/codes/ros2_work/ros2-learning/build/my_msg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/hyx/codes/ros2_work/ros2-learning/build/my_msg -- -j16 -l16

@@ -1,0 +1,187 @@
+[  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[  6%] Built target ament_cmake_python_copy_my_msg
+[  6%] Built target my_msg__cpp
+[  9%] [32mBuilding C object CMakeFiles/my_msg__rosidl_generator_c.dir/rosidl_generator_c/my_msg/msg/detail/mymsg__functions.c.o[0m
+running egg_info
+creating my_msg.egg-info
+writing my_msg.egg-info/PKG-INFO
+writing dependency_links to my_msg.egg-info/dependency_links.txt
+writing top-level names to my_msg.egg-info/top_level.txt
+writing manifest file 'my_msg.egg-info/SOURCES.txt'
+[ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[ 19%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[ 19%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+reading manifest file 'my_msg.egg-info/SOURCES.txt'
+writing manifest file 'my_msg.egg-info/SOURCES.txt'
+[ 19%] Built target ament_cmake_python_build_my_msg_egg
+[ 22%] [32m[1mLinking C shared library libmy_msg__rosidl_generator_c.so[0m
+[ 22%] Built target my_msg__rosidl_generator_c
+[ 32%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[ 32%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[ 32%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/my_msg__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/my_msg/msg/mymsg__type_support.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/my_msg__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/my_msg/msg/detail/mymsg__type_support.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/my_msg__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/my_msg/msg/detail/dds_fastrtps/mymsg__type_support.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/my_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/my_msg/msg/mymsg__type_support.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/my_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/my_msg/msg/detail/mymsg__type_support_c.cpp.o[0m
+[ 51%] [32mBuilding C object CMakeFiles/my_msg__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/my_msg/msg/detail/mymsg__type_support.c.o[0m
+[ 54%] [32m[1mLinking CXX shared library libmy_msg__rosidl_typesupport_c.so[0m
+[ 58%] [32m[1mLinking C shared library libmy_msg__rosidl_typesupport_introspection_c.so[0m
+[ 58%] Built target my_msg__rosidl_typesupport_c
+[ 58%] Built target my_msg__rosidl_typesupport_introspection_c
+[ 61%] [32m[1mLinking CXX shared library libmy_msg__rosidl_typesupport_cpp.so[0m
+[ 61%] Built target my_msg__rosidl_typesupport_cpp
+[ 64%] [32m[1mLinking CXX shared library libmy_msg__rosidl_typesupport_introspection_cpp.so[0m
+[ 67%] [32m[1mLinking CXX shared library libmy_msg__rosidl_typesupport_fastrtps_cpp.so[0m
+[ 67%] Built target my_msg__rosidl_typesupport_introspection_cpp
+[ 70%] [32m[1mLinking CXX shared library libmy_msg__rosidl_typesupport_fastrtps_c.so[0m
+[ 70%] Built target my_msg__rosidl_typesupport_fastrtps_cpp
+[ 70%] Built target my_msg__rosidl_typesupport_fastrtps_c
+[ 70%] Built target my_msg
+[ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[ 74%] Built target my_msg__py
+[ 77%] [32mBuilding C object CMakeFiles/my_msg__rosidl_generator_py.dir/rosidl_generator_py/my_msg/msg/_mymsg_s.c.o[0m
+[ 80%] [32m[1mLinking C shared library rosidl_generator_py/my_msg/libmy_msg__rosidl_generator_py.so[0m
+[ 80%] Built target my_msg__rosidl_generator_py
+[ 90%] [32mBuilding C object CMakeFiles/my_msg__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/my_msg/_my_msg_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[ 90%] [32mBuilding C object CMakeFiles/my_msg__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/my_msg/_my_msg_s.ep.rosidl_typesupport_c.c.o[0m
+[ 90%] [32mBuilding C object CMakeFiles/my_msg__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/my_msg/_my_msg_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 96%] [32m[1mLinking C shared library rosidl_generator_py/my_msg/my_msg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 96%] [32m[1mLinking C shared library rosidl_generator_py/my_msg/my_msg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[100%] [32m[1mLinking C shared library rosidl_generator_py/my_msg/my_msg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[100%] Built target my_msg__rosidl_typesupport_c__pyext
+[100%] Built target my_msg__rosidl_typesupport_introspection_c__pyext
+[100%] Built target my_msg__rosidl_typesupport_fastrtps_c__pyext
+-- Install configuration: ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/ament_index/resource_index/rosidl_interfaces/my_msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/mymsg.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__struct.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__type_support.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__functions.c
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__functions.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/rosidl_generator_c__visibility_control.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/environment/library_path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/environment/library_path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_generator_c.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_generator_c.so" to ""
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_fastrtps_c.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_fastrtps_c.so" to ""
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__struct.hpp
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__builder.hpp
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__traits.hpp
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__type_support.hpp
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/mymsg.hpp
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/dds_fastrtps
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_fastrtps_cpp.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_fastrtps_cpp.so" to ""
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__type_support.c
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__rosidl_typesupport_introspection_c.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_introspection_c.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_c.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_c.so" to ""
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg
+-- Up-to-date: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__type_support.cpp
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/include/my_msg/my_msg/msg/detail/mymsg__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_introspection_cpp.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_typesupport_cpp.so" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/environment/pythonpath.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/environment/pythonpath.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg-0.0.0-py3.10.egg-info
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg-0.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/msg/__init__.py
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/msg/_mymsg_s.c
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/msg/_mymsg.py
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/__init__.py
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/_my_msg_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/libmy_msg__rosidl_generator_py.so
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/_my_msg_s.ep.rosidl_typesupport_c.c
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/_my_msg_s.ep.rosidl_typesupport_introspection_c.c
+Listing '/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg'...
+Compiling '/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/__init__.py'...
+Listing '/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/msg'...
+Compiling '/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/msg/__init__.py'...
+Compiling '/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/msg/_mymsg.py'...
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/local/lib/python3.10/dist-packages/my_msg/my_msg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_generator_py.so
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib/libmy_msg__rosidl_generator_py.so" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/msg/Mymsg.idl
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/msg/Mymsg.msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/ament_index/resource_index/package_run_dependencies/my_msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/ament_index/resource_index/parent_prefix_path/my_msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/environment/ament_prefix_path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/environment/ament_prefix_path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/environment/path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/environment/path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/local_setup.bash
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/local_setup.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/local_setup.zsh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/local_setup.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/package.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/ament_index/resource_index/packages/my_msg
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_generator_cExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_typesupport_fastrtps_cExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_generator_cppExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msg__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msg__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msg__rosidl_typesupport_cExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msg__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msg__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msg__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msg__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msg__rosidl_typesupport_cppExport-noconfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_generator_pyExport.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/export_my_msg__rosidl_generator_pyExport-noconfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/rosidl_cmake-extras.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msgConfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake/my_msgConfig-version.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/package.xml

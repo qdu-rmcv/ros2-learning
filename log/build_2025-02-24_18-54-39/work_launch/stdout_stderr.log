@@ -1,0 +1,27 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hyx/codes/ros2_work/ros2-learning/build/work_launch
+-- Install configuration: ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/launch
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/launch/work_launch.py
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/ament_index/resource_index/package_run_dependencies/work_launch
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/ament_index/resource_index/parent_prefix_path/work_launch
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/environment/ament_prefix_path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/environment/ament_prefix_path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/environment/path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/environment/path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/local_setup.bash
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/local_setup.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/local_setup.zsh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/local_setup.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/package.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/ament_index/resource_index/packages/work_launch
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/cmake/work_launchConfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/cmake/work_launchConfig-version.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/work_launch/share/work_launch/package.xml

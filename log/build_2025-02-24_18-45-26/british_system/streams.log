@@ -1,0 +1,69 @@
+[0.011s] Invoking command in '/home/hyx/codes/ros2_work/ros2-learning/build/british_system': CMAKE_PREFIX_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg:/home/hyx/codes/ros2_work/ros2-learning/install/work_launch:/home/hyx/codes/ros2_work/ros2-learning/install/metric_system:/home/hyx/codes/ros2_work/ros2-learning/install/british_system:/home/hyx/codes/ros2_work/install/work_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32 /usr/bin/cmake /home/hyx/codes/ros2_work/ros2-learning/src/british_system -DCMAKE_INSTALL_PREFIX=/home/hyx/codes/ros2_work/ros2-learning/install/british_system
+[0.058s] -- The C compiler identification is GNU 11.4.0
+[0.102s] -- The CXX compiler identification is GNU 11.4.0
+[0.108s] -- Detecting C compiler ABI info
+[0.170s] -- Detecting C compiler ABI info - done
+[0.175s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.175s] -- Detecting C compile features
+[0.176s] -- Detecting C compile features - done
+[0.178s] -- Detecting CXX compiler ABI info
+[0.248s] -- Detecting CXX compiler ABI info - done
+[0.253s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.253s] -- Detecting CXX compile features
+[0.254s] -- Detecting CXX compile features - done
+[0.256s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.374s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.448s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.483s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.487s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.494s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.503s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.516s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.550s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.552s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.632s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.656s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.694s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.701s] -- Looking for pthread.h
+[0.764s] -- Looking for pthread.h - found
+[0.765s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.831s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.832s] -- Found Threads: TRUE  
+[0.869s] -- Found my_msg: 0.0.0 (/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/share/my_msg/cmake)
+[0.878s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.946s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.946s] -- Configured cppcheck include dirs: 
+[0.947s] -- Configured cppcheck exclude dirs and/or files: 
+[0.947s] -- Added test 'lint_cmake' to check CMake code style
+[0.948s] -- Added test 'uncrustify' to check C / C++ code style
+[0.948s] -- Configured uncrustify additional arguments: 
+[0.949s] -- Added test 'xmllint' to check XML markup files
+[0.950s] -- Configuring done
+[0.960s] -- Generating done
+[0.962s] -- Build files have been written to: /home/hyx/codes/ros2_work/ros2-learning/build/british_system
+[0.971s] Invoked command in '/home/hyx/codes/ros2_work/ros2-learning/build/british_system' returned '0': CMAKE_PREFIX_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg:/home/hyx/codes/ros2_work/ros2-learning/install/work_launch:/home/hyx/codes/ros2_work/ros2-learning/install/metric_system:/home/hyx/codes/ros2_work/ros2-learning/install/british_system:/home/hyx/codes/ros2_work/install/work_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32 /usr/bin/cmake /home/hyx/codes/ros2_work/ros2-learning/src/british_system -DCMAKE_INSTALL_PREFIX=/home/hyx/codes/ros2_work/ros2-learning/install/british_system
+[0.972s] Invoking command in '/home/hyx/codes/ros2_work/ros2-learning/build/british_system': CMAKE_PREFIX_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg:/home/hyx/codes/ros2_work/ros2-learning/install/work_launch:/home/hyx/codes/ros2_work/ros2-learning/install/metric_system:/home/hyx/codes/ros2_work/ros2-learning/install/british_system:/home/hyx/codes/ros2_work/install/work_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32 /usr/bin/cmake --build /home/hyx/codes/ros2_work/ros2-learning/build/british_system -- -j16 -l16
+[1.020s] [ 50%] [32mBuilding CXX object CMakeFiles/british_pub.dir/src/british_pub.cpp.o[0m
+[4.218s] [100%] [32m[1mLinking CXX executable british_pub[0m
+[4.360s] [100%] Built target british_pub
+[4.371s] Invoked command in '/home/hyx/codes/ros2_work/ros2-learning/build/british_system' returned '0': CMAKE_PREFIX_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg:/home/hyx/codes/ros2_work/ros2-learning/install/work_launch:/home/hyx/codes/ros2_work/ros2-learning/install/metric_system:/home/hyx/codes/ros2_work/ros2-learning/install/british_system:/home/hyx/codes/ros2_work/install/work_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32 /usr/bin/cmake --build /home/hyx/codes/ros2_work/ros2-learning/build/british_system -- -j16 -l16
+[4.382s] Invoking command in '/home/hyx/codes/ros2_work/ros2-learning/build/british_system': CMAKE_PREFIX_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg:/home/hyx/codes/ros2_work/ros2-learning/install/work_launch:/home/hyx/codes/ros2_work/ros2-learning/install/metric_system:/home/hyx/codes/ros2_work/ros2-learning/install/british_system:/home/hyx/codes/ros2_work/install/work_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32 /usr/bin/cmake --install /home/hyx/codes/ros2_work/ros2-learning/build/british_system
+[4.388s] -- Install configuration: ""
+[4.389s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/lib/british_system/british_pub
+[4.390s] -- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/british_system/lib/british_system/british_pub" to ""
+[4.390s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/package_run_dependencies/british_system
+[4.390s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/parent_prefix_path/british_system
+[4.390s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/ament_prefix_path.sh
+[4.390s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/ament_prefix_path.dsv
+[4.390s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/path.sh
+[4.391s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/path.dsv
+[4.391s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.bash
+[4.391s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.sh
+[4.391s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.zsh
+[4.391s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.dsv
+[4.391s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/package.dsv
+[4.391s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/packages/british_system
+[4.392s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/cmake/british_systemConfig.cmake
+[4.392s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/cmake/british_systemConfig-version.cmake
+[4.392s] -- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/package.xml
+[4.394s] Invoked command in '/home/hyx/codes/ros2_work/ros2-learning/build/british_system' returned '0': CMAKE_PREFIX_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg:/home/hyx/codes/ros2_work/ros2-learning/install/work_launch:/home/hyx/codes/ros2_work/ros2-learning/install/metric_system:/home/hyx/codes/ros2_work/ros2-learning/install/british_system:/home/hyx/codes/ros2_work/install/work_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/hyx/codes/ros2_work/ros2-learning/install/my_msg/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/home/MVS/lib/64:/home/MVS/lib/32 /usr/bin/cmake --install /home/hyx/codes/ros2_work/ros2-learning/build/british_system

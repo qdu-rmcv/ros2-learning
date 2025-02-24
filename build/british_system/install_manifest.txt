@@ -1,0 +1,16 @@
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/lib/british_system/british_pub
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/package_run_dependencies/british_system
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/parent_prefix_path/british_system
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/ament_prefix_path.sh
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/ament_prefix_path.dsv
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/path.sh
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/path.dsv
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.bash
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.sh
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.zsh
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.dsv
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/package.dsv
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/packages/british_system
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/cmake/british_systemConfig.cmake
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/cmake/british_systemConfig-version.cmake
+/home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/package.xml

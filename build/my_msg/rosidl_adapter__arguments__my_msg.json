@@ -1,0 +1,6 @@
+{
+  "package_name": "my_msg",
+  "non_idl_tuples": [
+    "/home/hyx/codes/ros2_work/ros2-learning/src/my_msg:msg/Mymsg.msg"
+  ]
+}

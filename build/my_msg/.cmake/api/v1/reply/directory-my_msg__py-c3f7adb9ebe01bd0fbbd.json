@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "my_msg__py",
+		"source" : "/home/hyx/codes/ros2_work/ros2-learning/build/my_msg/my_msg__py"
+	}
+}

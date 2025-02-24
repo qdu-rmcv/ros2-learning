@@ -1,0 +1,2 @@
+int32 suijishu #british节点发布随机整数值的消息接口
+float32 zhuanhuanzhi #metric节点转换与发布浮点数的消息接口

@@ -1,0 +1,10 @@
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/uninstall.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/british_system_uninstall.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/british_pub.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/test.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/edit_cache.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/rebuild_cache.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/list_install_components.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/install.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/install/local.dir
+/home/hyx/codes/ros2_work/ros2-learning/build/british_system/CMakeFiles/install/strip.dir

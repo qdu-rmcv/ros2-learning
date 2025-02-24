@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target metric_system[0m
+[100%] Built target metric_system
+-- Install configuration: ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/lib/metric_system/metric_system
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/metric_system/lib/metric_system/metric_system" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/ament_index/resource_index/package_run_dependencies/metric_system
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/ament_index/resource_index/parent_prefix_path/metric_system
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/environment/ament_prefix_path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/environment/ament_prefix_path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/environment/path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/environment/path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/local_setup.bash
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/local_setup.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/local_setup.zsh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/local_setup.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/package.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/ament_index/resource_index/packages/metric_system
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/cmake/metric_systemConfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/cmake/metric_systemConfig-version.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/metric_system/share/metric_system/package.xml

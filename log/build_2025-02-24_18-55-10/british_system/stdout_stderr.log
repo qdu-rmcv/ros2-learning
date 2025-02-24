@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target british_pub[0m
+[100%] Built target british_pub
+-- Install configuration: ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/lib/british_system/british_pub
+-- Set runtime path of "/home/hyx/codes/ros2_work/ros2-learning/install/british_system/lib/british_system/british_pub" to ""
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/package_run_dependencies/british_system
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/parent_prefix_path/british_system
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/ament_prefix_path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/ament_prefix_path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/path.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/environment/path.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.bash
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.sh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.zsh
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/local_setup.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/package.dsv
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/ament_index/resource_index/packages/british_system
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/cmake/british_systemConfig.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/cmake/british_systemConfig-version.cmake
+-- Installing: /home/hyx/codes/ros2_work/ros2-learning/install/british_system/share/british_system/package.xml

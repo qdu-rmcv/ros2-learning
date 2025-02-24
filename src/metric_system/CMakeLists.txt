@@ -7,9 +7,16 @@ endif()
 
 # find dependencies
 find_package(ament_cmake REQUIRED)
-# uncomment the following section in order to fill in
-# further dependencies manually.
-# find_package(<dependency> REQUIRED)
+find_package(rclcpp REQUIRED)
+find_package(my_msg REQUIRED)
+add_executable(metric_system src/metric_system.cpp)
+ament_target_dependencies(metric_system rclcpp my_msg)
+
+install(TARGETS
+  metric_system
+  DESTINATION lib/${PROJECT_NAME}
+)
+
 
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)

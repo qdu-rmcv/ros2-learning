@@ -7,9 +7,15 @@ endif()
 
 # find dependencies
 find_package(ament_cmake REQUIRED)
-# uncomment the following section in order to fill in
-# further dependencies manually.
-# find_package(<dependency> REQUIRED)
+find_package(rclcpp REQUIRED)
+find_package(my_msg REQUIRED)
+add_executable(british_pub src/british_pub.cpp)
+ament_target_dependencies(british_pub rclcpp my_msg)
+
+install(TARGETS
+  british_pub
+  DESTINATION lib/${PROJECT_NAME}
+)
 
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)
