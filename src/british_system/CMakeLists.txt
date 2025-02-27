@@ -9,6 +9,7 @@ endif()
 find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(std_msgs REQUIRED)
+find_package(msgs REQUIRED)
 
 add_executable(pub_node src/pub_node.cpp)
 target_include_directories(pub_node PUBLIC
@@ -19,6 +20,7 @@ ament_target_dependencies(
   pub_node
   "rclcpp"
   "std_msgs"
+  "msgs"
 )
 
 install(TARGETS pub_node
