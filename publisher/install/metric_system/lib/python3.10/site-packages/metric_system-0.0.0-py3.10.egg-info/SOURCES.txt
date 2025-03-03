@@ -1,0 +1,17 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/metric_system/metric_system.egg-info/PKG-INFO
+../../build/metric_system/metric_system.egg-info/SOURCES.txt
+../../build/metric_system/metric_system.egg-info/dependency_links.txt
+../../build/metric_system/metric_system.egg-info/entry_points.txt
+../../build/metric_system/metric_system.egg-info/requires.txt
+../../build/metric_system/metric_system.egg-info/top_level.txt
+../../build/metric_system/metric_system.egg-info/zip-safe
+metric_system/__init__.py
+metric_system/meter_converter.py
+resource/metric_system
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

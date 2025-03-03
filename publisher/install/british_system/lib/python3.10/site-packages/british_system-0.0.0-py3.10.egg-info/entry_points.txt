@@ -1,0 +1,3 @@
+[console_scripts]
+inch_publisher = british_system.inch_pub:main
+

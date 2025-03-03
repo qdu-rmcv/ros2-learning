@@ -1,0 +1,30 @@
+running develop
+Removing /home/navi/learn_ros2/publisher_3.3/install/british_system/lib/python3.10/site-packages/british-system.egg-link (link to .)
+running egg_info
+writing ../../build/british_system/british_system.egg-info/PKG-INFO
+writing dependency_links to ../../build/british_system/british_system.egg-info/dependency_links.txt
+writing entry points to ../../build/british_system/british_system.egg-info/entry_points.txt
+writing requirements to ../../build/british_system/british_system.egg-info/requires.txt
+writing top-level names to ../../build/british_system/british_system.egg-info/top_level.txt
+reading manifest file '../../build/british_system/british_system.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/british_system/british_system.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/navi/learn_ros2/publisher_3.3/build/british_system/build
+creating /home/navi/learn_ros2/publisher_3.3/build/british_system/build/lib
+creating /home/navi/learn_ros2/publisher_3.3/build/british_system/build/lib/british_system
+copying british_system/inch_pub.py -> /home/navi/learn_ros2/publisher_3.3/build/british_system/build/lib/british_system
+copying british_system/__init__.py -> /home/navi/learn_ros2/publisher_3.3/build/british_system/build/lib/british_system
+running install
+running install_lib
+creating /home/navi/learn_ros2/publisher_3.3/install/british_system/lib/python3.10/site-packages/british_system
+copying /home/navi/learn_ros2/publisher_3.3/build/british_system/build/lib/british_system/inch_pub.py -> /home/navi/learn_ros2/publisher_3.3/install/british_system/lib/python3.10/site-packages/british_system
+copying /home/navi/learn_ros2/publisher_3.3/build/british_system/build/lib/british_system/__init__.py -> /home/navi/learn_ros2/publisher_3.3/install/british_system/lib/python3.10/site-packages/british_system
+byte-compiling /home/navi/learn_ros2/publisher_3.3/install/british_system/lib/python3.10/site-packages/british_system/inch_pub.py to inch_pub.cpython-310.pyc
+byte-compiling /home/navi/learn_ros2/publisher_3.3/install/british_system/lib/python3.10/site-packages/british_system/__init__.py to __init__.cpython-310.pyc
+running install_egg_info
+Copying ../../build/british_system/british_system.egg-info to /home/navi/learn_ros2/publisher_3.3/install/british_system/lib/python3.10/site-packages/british_system-0.0.0-py3.10.egg-info
+running install_scripts
+Installing inch_publisher script to /home/navi/learn_ros2/publisher_3.3/install/british_system/lib/british_system
+writing list of installed files to '/home/navi/learn_ros2/publisher_3.3/build/british_system/install.log'
