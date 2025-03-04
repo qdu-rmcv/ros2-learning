@@ -1,0 +1,33 @@
+[0.401s] Invoking command in '/home/navi/learn_ros2/publisher_3.3/src/metric_system': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/navi/learn_ros2/publisher_3.3/build/metric_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/metric_system build --build-base /home/navi/learn_ros2/publisher_3.3/build/metric_system/build install --record /home/navi/learn_ros2/publisher_3.3/build/metric_system/install.log --single-version-externally-managed install_data
+[0.521s] running egg_info
+[0.521s] creating ../../build/metric_system/metric_system.egg-info
+[0.521s] writing ../../build/metric_system/metric_system.egg-info/PKG-INFO
+[0.521s] writing dependency_links to ../../build/metric_system/metric_system.egg-info/dependency_links.txt
+[0.521s] writing entry points to ../../build/metric_system/metric_system.egg-info/entry_points.txt
+[0.521s] writing requirements to ../../build/metric_system/metric_system.egg-info/requires.txt
+[0.522s] writing top-level names to ../../build/metric_system/metric_system.egg-info/top_level.txt
+[0.522s] writing manifest file '../../build/metric_system/metric_system.egg-info/SOURCES.txt'
+[0.523s] reading manifest file '../../build/metric_system/metric_system.egg-info/SOURCES.txt'
+[0.523s] adding license file 'LICENSE'
+[0.523s] writing manifest file '../../build/metric_system/metric_system.egg-info/SOURCES.txt'
+[0.523s] running build
+[0.523s] running build_py
+[0.524s] creating /home/navi/learn_ros2/publisher_3.3/build/metric_system/build
+[0.524s] creating /home/navi/learn_ros2/publisher_3.3/build/metric_system/build/lib
+[0.524s] creating /home/navi/learn_ros2/publisher_3.3/build/metric_system/build/lib/metric_system
+[0.524s] copying metric_system/__init__.py -> /home/navi/learn_ros2/publisher_3.3/build/metric_system/build/lib/metric_system
+[0.524s] copying metric_system/meter_converter.py -> /home/navi/learn_ros2/publisher_3.3/build/metric_system/build/lib/metric_system
+[0.524s] running install
+[0.524s] running install_lib
+[0.524s] creating /home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/python3.10/site-packages/metric_system
+[0.524s] copying /home/navi/learn_ros2/publisher_3.3/build/metric_system/build/lib/metric_system/__init__.py -> /home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/python3.10/site-packages/metric_system
+[0.524s] copying /home/navi/learn_ros2/publisher_3.3/build/metric_system/build/lib/metric_system/meter_converter.py -> /home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/python3.10/site-packages/metric_system
+[0.524s] byte-compiling /home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/python3.10/site-packages/metric_system/__init__.py to __init__.cpython-310.pyc
+[0.524s] byte-compiling /home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/python3.10/site-packages/metric_system/meter_converter.py to meter_converter.cpython-310.pyc
+[0.525s] running install_data
+[0.525s] running install_egg_info
+[0.526s] Copying ../../build/metric_system/metric_system.egg-info to /home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/python3.10/site-packages/metric_system-0.0.0-py3.10.egg-info
+[0.526s] running install_scripts
+[0.538s] Installing meter_converter script to /home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/metric_system
+[0.538s] writing list of installed files to '/home/navi/learn_ros2/publisher_3.3/build/metric_system/install.log'
+[0.553s] Invoked command in '/home/navi/learn_ros2/publisher_3.3/src/metric_system' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/navi/learn_ros2/publisher_3.3/build/metric_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/navi/learn_ros2/publisher_3.3/install/metric_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/metric_system build --build-base /home/navi/learn_ros2/publisher_3.3/build/metric_system/build install --record /home/navi/learn_ros2/publisher_3.3/build/metric_system/install.log --single-version-externally-managed install_data
