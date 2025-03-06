@@ -1,0 +1,1 @@
+/home/navi/learn_ros2/publisher_cpp/src/build/british_system/ament_cmake_environment_hooks/local_setup.bash

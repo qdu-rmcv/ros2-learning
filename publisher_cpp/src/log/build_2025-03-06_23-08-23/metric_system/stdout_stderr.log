@@ -1,0 +1,45 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/navi/learn_ros2/publisher_cpp/src/build/metric_system
+[35m[1mConsolidate compiler generated dependencies of target metric_system_node[0m
+[100%] Built target metric_system_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/launch/launch.py
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/lib/metric_system/metric_system_node
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/ament_index/resource_index/package_run_dependencies/metric_system
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/ament_index/resource_index/parent_prefix_path/metric_system
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/environment/path.sh
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/environment/path.dsv
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/local_setup.bash
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/local_setup.sh
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/local_setup.zsh
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/local_setup.dsv
+-- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/package.dsv
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/ament_index/resource_index/packages/metric_system
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/cmake/metric_systemConfig.cmake
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/cmake/metric_systemConfig-version.cmake
+-- Up-to-date symlink: /home/navi/learn_ros2/publisher_cpp/src/install/metric_system/share/metric_system/package.xml

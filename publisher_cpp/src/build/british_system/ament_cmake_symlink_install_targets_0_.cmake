@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/navi/learn_ros2/publisher_cpp/src/build/british_system/british_system_node" "TARGETS" "british_system_node" "DESTINATION" "lib/british_system")

@@ -1,0 +1,69 @@
+[0.006s] Invoking command in '/home/navi/learn_ros2/publisher_cpp/src/build/british_system': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/navi/learn_ros2/publisher_cpp/src/british_system -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/navi/learn_ros2/publisher_cpp/src/install/british_system
+[0.059s] -- The C compiler identification is GNU 11.4.0
+[0.106s] -- The CXX compiler identification is GNU 11.4.0
+[0.112s] -- Detecting C compiler ABI info
+[0.198s] -- Detecting C compiler ABI info - done
+[0.209s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.209s] -- Detecting C compile features
+[0.209s] -- Detecting C compile features - done
+[0.212s] -- Detecting CXX compiler ABI info
+[0.275s] -- Detecting CXX compiler ABI info - done
+[0.279s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.279s] -- Detecting CXX compile features
+[0.279s] -- Detecting CXX compile features - done
+[0.281s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.485s] -- Found Python3: /home/navi/miniconda3/bin/python3 (found version "3.12.9") found components: Interpreter 
+[0.533s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.544s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.570s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.572s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.576s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.583s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.591s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.615s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.616s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.678s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.702s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.743s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.749s] -- Looking for pthread.h
+[0.803s] -- Looking for pthread.h - found
+[0.803s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.860s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.861s] -- Found Threads: TRUE  
+[0.888s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.946s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.946s] -- Configured cppcheck include dirs: 
+[0.947s] -- Configured cppcheck exclude dirs and/or files: 
+[0.947s] -- Added test 'lint_cmake' to check CMake code style
+[0.947s] -- Added test 'uncrustify' to check C / C++ code style
+[0.947s] -- Configured uncrustify additional arguments: 
+[0.947s] -- Added test 'xmllint' to check XML markup files
+[0.948s] -- Configuring done
+[0.952s] -- Generating done
+[0.954s] -- Build files have been written to: /home/navi/learn_ros2/publisher_cpp/src/build/british_system
+[0.960s] Invoked command in '/home/navi/learn_ros2/publisher_cpp/src/build/british_system' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/navi/learn_ros2/publisher_cpp/src/british_system -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/navi/learn_ros2/publisher_cpp/src/install/british_system
+[0.960s] Invoking command in '/home/navi/learn_ros2/publisher_cpp/src/build/british_system': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/navi/learn_ros2/publisher_cpp/src/build/british_system -- -j32 -l32
+[0.989s] [ 50%] [32mBuilding CXX object CMakeFiles/british_system_node.dir/src/british_system_node.cpp.o[0m
+[2.950s] [100%] [32m[1mLinking CXX executable british_system_node[0m
+[3.045s] [100%] Built target british_system_node
+[3.055s] Invoked command in '/home/navi/learn_ros2/publisher_cpp/src/build/british_system' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/navi/learn_ros2/publisher_cpp/src/build/british_system -- -j32 -l32
+[3.062s] Invoking command in '/home/navi/learn_ros2/publisher_cpp/src/build/british_system': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/navi/learn_ros2/publisher_cpp/src/build/british_system
+[3.067s] -- Install configuration: ""
+[3.067s] -- Execute custom install script
+[3.067s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/lib/british_system/british_system_node
+[3.072s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/ament_index/resource_index/package_run_dependencies/british_system
+[3.078s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/ament_index/resource_index/parent_prefix_path/british_system
+[3.082s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/environment/ament_prefix_path.sh
+[3.088s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/environment/ament_prefix_path.dsv
+[3.094s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/environment/path.sh
+[3.100s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/environment/path.dsv
+[3.106s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/local_setup.bash
+[3.111s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/local_setup.sh
+[3.115s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/local_setup.zsh
+[3.122s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/local_setup.dsv
+[3.128s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/package.dsv
+[3.135s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/ament_index/resource_index/packages/british_system
+[3.141s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/cmake/british_systemConfig.cmake
+[3.146s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/cmake/british_systemConfig-version.cmake
+[3.152s] -- Symlinking: /home/navi/learn_ros2/publisher_cpp/src/install/british_system/share/british_system/package.xml
+[3.159s] Invoked command in '/home/navi/learn_ros2/publisher_cpp/src/build/british_system' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/navi/learn_ros2/publisher_cpp/src/build/british_system

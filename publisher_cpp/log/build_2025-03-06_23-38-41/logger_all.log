@@ -1,0 +1,168 @@
+[0.058s] [34mcolcon[0m [1;30mDEBUG[0m [32mCommand line arguments: ['/usr/bin/colcon', 'build', '--symlink-install', '--packages-select', 'metric_system'][0m
+[0.058s] [34mcolcon[0m [1;30mDEBUG[0m [32mParsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=True, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=32, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=['metric_system'], packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x79f2271e6e90>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x79f2271e62f0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x79f2271e62f0>>)[0m
+[0.127s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(colcon_meta) check parameters
+[0.127s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) check parameters
+[0.127s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(ignore) check parameters
+[0.127s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(path) check parameters
+[0.127s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(colcon_meta) discover
+[0.127s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) discover
+[0.127s] [34mcolcon.colcon_core.package_discovery[0m [1;30mINFO[0m Crawling recursively for packages in '/home/navi/learn_ros2/publisher_cpp'
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'ignore'
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'ignore_ament_install'
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['colcon_pkg']
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'colcon_pkg'
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['colcon_meta']
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'colcon_meta'
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['ros']
+[0.127s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'ros'
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['cmake', 'python']
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'cmake'
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'python'
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extensions ['python_setup_py']
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(.) by extension 'python_setup_py'
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(build) by extension 'ignore'
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(build) ignored
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(install) by extension 'ignore'
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(install) ignored
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.132s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(log) by extension 'ignore'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(log) ignored
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extension 'ignore'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extension 'ignore_ament_install'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extensions ['colcon_pkg']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extension 'colcon_pkg'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extensions ['colcon_meta']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extension 'colcon_meta'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extensions ['ros']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extension 'ros'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extensions ['cmake', 'python']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extension 'cmake'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extension 'python'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extensions ['python_setup_py']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src) by extension 'python_setup_py'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extensions ['ignore', 'ignore_ament_install']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extension 'ignore'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extension 'ignore_ament_install'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extensions ['colcon_pkg']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extension 'colcon_pkg'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extensions ['colcon_meta']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extension 'colcon_meta'
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extensions ['ros']
+[0.133s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/british_system) by extension 'ros'
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mDEBUG[0m [32mPackage 'src/british_system' with type 'ros.ament_cmake' and name 'british_system'[0m
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/build) by extensions ['ignore', 'ignore_ament_install']
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/build) by extension 'ignore'
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/build) ignored
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/install) by extensions ['ignore', 'ignore_ament_install']
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/install) by extension 'ignore'
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/install) ignored
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/log) by extensions ['ignore', 'ignore_ament_install']
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/log) by extension 'ignore'
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/log) ignored
+[0.134s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extensions ['ignore', 'ignore_ament_install']
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extension 'ignore'
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extension 'ignore_ament_install'
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extensions ['colcon_pkg']
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extension 'colcon_pkg'
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extensions ['colcon_meta']
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extension 'colcon_meta'
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extensions ['ros']
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(src/metric_system) by extension 'ros'
+[0.135s] [34mcolcon.colcon_core.package_identification[0m [1;30mDEBUG[0m [32mPackage 'src/metric_system' with type 'ros.ament_cmake' and name 'metric_system'[0m
+[0.135s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) using defaults
+[0.135s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(ignore) discover
+[0.135s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(ignore) using defaults
+[0.135s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(path) discover
+[0.135s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(path) using defaults
+[0.147s] [34mcolcon.colcon_core.package_selection[0m [1;30mINFO[0m Skipping not selected package 'british_system' in 'src/british_system'
+[0.148s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(prefix_path) check parameters
+[0.148s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(prefix_path) discover
+[0.148s] [34mcolcon.colcon_ros.prefix_path.ament[0m [1;30mWARNING[0m [33mThe path '/home/navi/learn_ros2/publisher_cpp/install/metric_system' in the environment variable AMENT_PREFIX_PATH doesn't exist[0m
+[0.148s] [34mcolcon.colcon_ros.prefix_path.ament[0m [1;30mWARNING[0m [33mThe path '/home/navi/learn_ros2/publisher_cpp/install/british_system' in the environment variable AMENT_PREFIX_PATH doesn't exist[0m
+[0.148s] [34mcolcon.colcon_ros.prefix_path.catkin[0m [1;30mWARNING[0m [33mThe path '/home/navi/learn_ros2/publisher_cpp/install/metric_system' in the environment variable CMAKE_PREFIX_PATH doesn't exist[0m
+[0.148s] [34mcolcon.colcon_ros.prefix_path.catkin[0m [1;30mWARNING[0m [33mThe path '/home/navi/learn_ros2/publisher_cpp/install/british_system' in the environment variable CMAKE_PREFIX_PATH doesn't exist[0m
+[0.148s] [34mcolcon.colcon_installed_package_information.package_discovery[0m [1;30mDEBUG[0m [32mFound 0 installed packages in /home/navi/learn_ros2/publisher_cpp/install[0m
+[0.149s] [34mcolcon.colcon_installed_package_information.package_discovery[0m [1;30mDEBUG[0m [32mFound 2 installed packages in /home/navi/learn_ros2/publisher_cpp/src/install[0m
+[0.149s] [34mcolcon.colcon_installed_package_information.package_discovery[0m [1;30mDEBUG[0m [32mFound 271 installed packages in /opt/ros/humble[0m
+[0.150s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(prefix_path) using defaults
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'cmake_args' from command line to 'None'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'cmake_target' from command line to 'None'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'cmake_clean_cache' from command line to 'False'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'cmake_clean_first' from command line to 'False'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'cmake_force_configure' from command line to 'False'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'ament_cmake_args' from command line to 'None'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'catkin_cmake_args' from command line to 'None'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'metric_system' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.168s] [34mcolcon.colcon_core.verb[0m [1;30mDEBUG[0m [32mBuilding package 'metric_system' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/navi/learn_ros2/publisher_cpp/build/metric_system', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/navi/learn_ros2/publisher_cpp/install/metric_system', 'merge_install': False, 'path': '/home/navi/learn_ros2/publisher_cpp/src/metric_system', 'symlink_install': True, 'test_result_base': None}[0m
+[0.168s] [34mcolcon.colcon_core.executor[0m [1;30mINFO[0m Executing jobs using 'parallel' executor
+[0.169s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mrun_until_complete[0m
+[0.169s] [34mcolcon.colcon_ros.task.ament_cmake.build[0m [1;30mINFO[0m Building ROS package in '/home/navi/learn_ros2/publisher_cpp/src/metric_system' with build type 'ament_cmake'
+[0.169s] [34mcolcon.colcon_cmake.task.cmake.build[0m [1;30mINFO[0m Building CMake package in '/home/navi/learn_ros2/publisher_cpp/src/metric_system'
+[0.171s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.171s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.171s] [34mcolcon.colcon_core.shell[0m [1;30mDEBUG[0m [32mSkip shell extension 'dsv' for command environment[0m
+[0.177s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in '/home/navi/learn_ros2/publisher_cpp/build/metric_system': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/navi/learn_ros2/publisher_cpp/src/metric_system -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/navi/learn_ros2/publisher_cpp/install/metric_system[0m
+[1.299s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in '/home/navi/learn_ros2/publisher_cpp/build/metric_system' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/navi/learn_ros2/publisher_cpp/src/metric_system -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/navi/learn_ros2/publisher_cpp/install/metric_system[0m
+[1.300s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in '/home/navi/learn_ros2/publisher_cpp/build/metric_system': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/navi/learn_ros2/publisher_cpp/build/metric_system -- -j32 -l32[0m
+[6.210s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in '/home/navi/learn_ros2/publisher_cpp/build/metric_system' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/navi/learn_ros2/publisher_cpp/build/metric_system -- -j32 -l32[0m
+[6.221s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in '/home/navi/learn_ros2/publisher_cpp/build/metric_system': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/navi/learn_ros2/publisher_cpp/build/metric_system[0m
+[6.416s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_environment_scripts_only(metric_system)
+[6.417s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in '/home/navi/learn_ros2/publisher_cpp/build/metric_system' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/navi/learn_ros2/publisher_cpp/build/metric_system[0m
+[6.419s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system' for CMake module files
+[6.420s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system' for CMake config files
+[6.420s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('metric_system', 'cmake_prefix_path')
+[6.421s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/hook/cmake_prefix_path.ps1'
+[6.422s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/hook/cmake_prefix_path.dsv'
+[6.422s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/hook/cmake_prefix_path.sh'
+[6.423s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/lib'
+[6.423s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/bin'
+[6.424s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/lib/pkgconfig/metric_system.pc'
+[6.424s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/lib/python3.10/site-packages'
+[6.424s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/bin'
+[6.424s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.ps1'
+[6.425s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package descriptor '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.dsv'
+[6.425s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.sh'
+[6.426s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.bash'
+[6.427s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.zsh'
+[6.427s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_file_with_runtime_dependencies(/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/colcon-core/packages/metric_system)
+[6.427s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_environment_scripts_only(metric_system)
+[6.428s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system' for CMake module files
+[6.428s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system' for CMake config files
+[6.428s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('metric_system', 'cmake_prefix_path')
+[6.428s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/hook/cmake_prefix_path.ps1'
+[6.428s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/hook/cmake_prefix_path.dsv'
+[6.429s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/hook/cmake_prefix_path.sh'
+[6.429s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/lib'
+[6.429s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/bin'
+[6.429s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/lib/pkgconfig/metric_system.pc'
+[6.429s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/lib/python3.10/site-packages'
+[6.429s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking '/home/navi/learn_ros2/publisher_cpp/install/metric_system/bin'
+[6.429s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.ps1'
+[6.430s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package descriptor '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.dsv'
+[6.430s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.sh'
+[6.430s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.bash'
+[6.430s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script '/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/metric_system/package.zsh'
+[6.430s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_file_with_runtime_dependencies(/home/navi/learn_ros2/publisher_cpp/install/metric_system/share/colcon-core/packages/metric_system)
+[6.431s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mclosing loop[0m
+[6.431s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mloop closed[0m
+[6.431s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mrun_until_complete finished with '0'[0m
+[6.431s] [34mcolcon.colcon_core.event_reactor[0m [1;30mDEBUG[0m [32mjoining thread[0m
+[6.434s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[6.434s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[6.434s] [34mcolcon.colcon_notification.desktop_notification[0m [1;30mINFO[0m Sending desktop notification using 'notify2'
+[6.469s] [34mcolcon.colcon_core.event_reactor[0m [1;30mDEBUG[0m [32mjoined thread[0m
+[6.469s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script '/home/navi/learn_ros2/publisher_cpp/install/local_setup.ps1'
+[6.470s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix util module '/home/navi/learn_ros2/publisher_cpp/install/_local_setup_util_ps1.py'
+[6.471s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script '/home/navi/learn_ros2/publisher_cpp/install/setup.ps1'
+[6.471s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script '/home/navi/learn_ros2/publisher_cpp/install/local_setup.sh'
+[6.472s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix util module '/home/navi/learn_ros2/publisher_cpp/install/_local_setup_util_sh.py'
+[6.472s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script '/home/navi/learn_ros2/publisher_cpp/install/setup.sh'
+[6.473s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script '/home/navi/learn_ros2/publisher_cpp/install/local_setup.bash'
+[6.474s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script '/home/navi/learn_ros2/publisher_cpp/install/setup.bash'
+[6.475s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script '/home/navi/learn_ros2/publisher_cpp/install/local_setup.zsh'
+[6.475s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script '/home/navi/learn_ros2/publisher_cpp/install/setup.zsh'

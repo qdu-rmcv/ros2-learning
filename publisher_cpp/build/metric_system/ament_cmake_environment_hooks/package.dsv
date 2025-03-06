@@ -1,0 +1,4 @@
+source;share/metric_system/local_setup.bash
+source;share/metric_system/local_setup.dsv
+source;share/metric_system/local_setup.sh
+source;share/metric_system/local_setup.zsh

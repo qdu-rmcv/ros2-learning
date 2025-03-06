@@ -1,0 +1,4 @@
+source;share/british_system/local_setup.bash
+source;share/british_system/local_setup.dsv
+source;share/british_system/local_setup.sh
+source;share/british_system/local_setup.zsh
