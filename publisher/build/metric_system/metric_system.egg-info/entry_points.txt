@@ -1,3 +1,0 @@
-[console_scripts]
-meter_converter = metric_system.meter_converter:main
-
