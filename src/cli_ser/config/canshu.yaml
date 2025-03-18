@@ -1,0 +1,4 @@
+ser:
+  ros__parameters:
+    param1: 2
+#自定义yaml参数列表，目前就只有一个参数
