@@ -1,0 +1,9 @@
+server:
+  ros__parameters:
+    param1: 2
+# 用于server节点的参数
+client:
+  ros__parameters:
+    param2: 5
+    param3: 10
+# 用于client节点的参数
