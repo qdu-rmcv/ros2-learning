@@ -1,0 +1,3 @@
+server:
+  ros__parameters:
+		PIC_PATH: "/home/find/code/cpp/auto_aim_demo/src/server/test/0.jpg"
